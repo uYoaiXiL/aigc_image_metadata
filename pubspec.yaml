@@ -1,0 +1,21 @@
+name: aigc_image_metadata
+description: Read, embed, transplant, and verify TC260 AIGC metadata in PNG and JPEG images.
+version: 0.1.0
+repository: https://gitea.finsight.work/lxy/aigc_image_metadata
+topics:
+  - aigc
+  - xmp
+  - metadata
+  - png
+  - jpeg
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  xml: '>=6.5.0 <8.0.0'
+
+dev_dependencies:
+  image: ^4.2.0
+  lints: ^4.0.0
+  test: ^1.25.7
