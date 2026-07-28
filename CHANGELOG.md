@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Fix README language links when rendered on pub.dev.
+
 ## 0.1.0
 
 - Initial PNG and JPEG TC260 AIGC metadata support.

@@ -1,6 +1,6 @@
 # aigc_image_metadata
 
-[English](README.md)
+[English](https://github.com/uYoaiXiL/aigc_image_metadata/blob/main/README.md)
 
 一个纯 Dart 图片元数据包，用于读取、首次写入、移植和验证 PNG、JPEG 图片中的
 GB 45438-2025 / TC260 AIGC 隐式标识。

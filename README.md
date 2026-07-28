@@ -1,6 +1,6 @@
 # aigc_image_metadata
 
-[简体中文](README.zh-CN.md)
+[简体中文](https://github.com/uYoaiXiL/aigc_image_metadata/blob/main/README.zh-CN.md)
 
 A pure Dart package for reading, embedding, transplanting, and verifying
 GB 45438-2025 / TC260 AIGC metadata in PNG and JPEG images.
